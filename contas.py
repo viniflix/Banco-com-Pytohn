@@ -62,8 +62,6 @@ class Conta_Poupanca(ContaBancaria):
 #        destino.creditar(valor)
 #           
 #então usei o if pra fazer a transferencia como se fosse um
-#saque de uma conta e um deposito em outra, que é basicamente
-#a mesma coisa, espero que aceite desta forma,
-#e que ninguem tenha feito igual !
+#saque de uma conta e um deposito em outra.
 
 
